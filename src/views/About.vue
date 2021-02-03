@@ -19,6 +19,6 @@ export default defineComponent({
 
 <style scoped>
 .image {
-  width: 50%;
+  width: 30%;
 }
 </style>
